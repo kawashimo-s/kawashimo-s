@@ -1,6 +1,10 @@
-## Hi there 👋
+# I'm Shimokawa Shion.
 
-I'm Shimokawa Shion.
+## Name
+- Shimokawa Shion
+- しもかわ　しおん
+- 下川　詩音
+
 <!--
 **kawashimo-s/kawashimo-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
